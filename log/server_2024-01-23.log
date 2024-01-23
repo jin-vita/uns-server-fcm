@@ -1,0 +1,605 @@
+2024-01-23 15:28:37.538 - INFO: [index.js:91:12] service loader called.
+2024-01-23 15:28:37.548 - INFO: [index.js:95:12] controller loader called.
+2024-01-23 15:28:37.549 - DEBUG: [external_loader.js:33:9] external_loader called.
+2024-01-23 15:28:37.549 - DEBUG: [external_loader.js:36:16] No external configuration.
+2024-01-23 15:28:37.732 - INFO: [index.js:200:20] Http Server started.
+2024-01-23 15:28:37.732 - INFO: [index.js:211:16] Base URL -> http://localhost:8001
+2024-01-23 15:28:37.733 - INFO: [index.js:216:16] Namespace -> ::_8001_14348
+2024-01-23 15:28:37.735 - DEBUG: [database_mysql.js:61:16] database SQL file loaded.
+2024-01-23 15:29:55.087 - INFO: [index.js:91:12] service loader called.
+2024-01-23 15:29:55.096 - INFO: [index.js:95:12] controller loader called.
+2024-01-23 15:29:55.096 - DEBUG: [external_loader.js:33:9] external_loader called.
+2024-01-23 15:29:55.096 - DEBUG: [external_loader.js:36:16] No external configuration.
+2024-01-23 15:29:55.211 - INFO: [index.js:200:20] Http Server started.
+2024-01-23 15:29:55.211 - INFO: [index.js:211:16] Base URL -> http://localhost:8001
+2024-01-23 15:29:55.212 - INFO: [index.js:216:16] Namespace -> ::_8001_1912
+2024-01-23 15:29:55.213 - DEBUG: [database_mysql.js:61:16] database SQL file loaded.
+2024-01-23 15:32:21.281 - DEBUG: [lion-controller.js:36:14] Lion:list called for GET /lion
+2024-01-23 15:32:21.284 - DEBUG: [param.js:19:12] GET /lion requested
+2024-01-23 15:32:21.286 - DEBUG: [param.js:36:16] PARAMS -> {}
+2024-01-23 15:32:21.420 - DEBUG: [database_mysql.js:393:28] SQL -> select count(*) as total                 from test.lion
+2024-01-23 15:32:21.447 - DEBUG: [database_mysql.js:399:28] Error in executing SQL -> Error: ER_NO_SUCH_TABLE: Table 'test.lion' doesn't exist
+2024-01-23 15:32:29.671 - DEBUG: [fcm-controller.js:69:16] fcmTest 요청됨.
+2024-01-23 15:32:29.672 - DEBUG: [param.js:19:12] GET /fcm/test requested
+2024-01-23 15:32:29.672 - DEBUG: [param.js:36:16] PARAMS -> {}
+2024-01-23 15:32:29.673 - DEBUG: [fcm-controller.js:73:16] data: undefined, token : undefined
+2024-01-23 15:32:40.641 - INFO: [index.js:91:12] service loader called.
+2024-01-23 15:32:40.651 - INFO: [index.js:95:12] controller loader called.
+2024-01-23 15:32:40.652 - DEBUG: [external_loader.js:33:9] external_loader called.
+2024-01-23 15:32:40.652 - DEBUG: [external_loader.js:36:16] No external configuration.
+2024-01-23 15:32:40.814 - INFO: [index.js:200:20] Http Server started.
+2024-01-23 15:32:40.814 - INFO: [index.js:211:16] Base URL -> http://localhost:8001
+2024-01-23 15:32:40.815 - INFO: [index.js:216:16] Namespace -> ::_8001_17548
+2024-01-23 15:32:40.817 - DEBUG: [database_mysql.js:61:16] database SQL file loaded.
+2024-01-23 15:32:41.488 - DEBUG: [fcm-controller.js:69:16] fcmTest 요청됨.
+2024-01-23 15:32:41.490 - DEBUG: [param.js:19:12] GET /fcm/test requested
+2024-01-23 15:32:41.492 - DEBUG: [param.js:36:16] PARAMS -> {}
+2024-01-23 15:32:41.494 - DEBUG: [fcm-controller.js:73:16] data: undefined, token : undefined
+2024-01-23 15:32:54.965 - INFO: [index.js:91:12] service loader called.
+2024-01-23 15:32:54.976 - INFO: [index.js:95:12] controller loader called.
+2024-01-23 15:32:54.977 - DEBUG: [external_loader.js:33:9] external_loader called.
+2024-01-23 15:32:54.977 - DEBUG: [external_loader.js:36:16] No external configuration.
+2024-01-23 15:32:55.106 - INFO: [index.js:200:20] Http Server started.
+2024-01-23 15:32:55.106 - INFO: [index.js:211:16] Base URL -> http://localhost:8001
+2024-01-23 15:32:55.107 - INFO: [index.js:216:16] Namespace -> ::_8001_15340
+2024-01-23 15:32:55.109 - DEBUG: [database_mysql.js:61:16] database SQL file loaded.
+2024-01-23 15:32:55.283 - DEBUG: [fcm-controller.js:69:16] fcmTest 요청됨.
+2024-01-23 15:32:55.283 - DEBUG: [param.js:19:12] GET /fcm/test requested
+2024-01-23 15:32:55.284 - DEBUG: [param.js:36:16] PARAMS -> {}
+2024-01-23 15:32:55.284 - DEBUG: [fcm-controller.js:73:16] data: undefined, token : undefined
+2024-01-23 15:33:04.220 - INFO: [index.js:91:12] service loader called.
+2024-01-23 15:33:04.230 - INFO: [index.js:95:12] controller loader called.
+2024-01-23 15:33:04.230 - DEBUG: [external_loader.js:33:9] external_loader called.
+2024-01-23 15:33:04.231 - DEBUG: [external_loader.js:36:16] No external configuration.
+2024-01-23 15:33:04.356 - INFO: [index.js:200:20] Http Server started.
+2024-01-23 15:33:04.357 - INFO: [index.js:211:16] Base URL -> http://localhost:8001
+2024-01-23 15:33:04.358 - INFO: [index.js:216:16] Namespace -> ::_8001_4704
+2024-01-23 15:33:04.360 - DEBUG: [database_mysql.js:61:16] database SQL file loaded.
+2024-01-23 15:33:15.930 - DEBUG: [fcm-controller.js:69:16] fcmTest 요청됨.
+2024-01-23 15:33:15.931 - DEBUG: [param.js:19:12] GET /fcm/test requested
+2024-01-23 15:33:15.931 - DEBUG: [param.js:36:16] PARAMS -> {}
+2024-01-23 15:33:15.932 - DEBUG: [fcm-controller.js:73:16] data: undefined, token : undefined
+2024-01-23 15:33:20.530 - INFO: [index.js:91:12] service loader called.
+2024-01-23 15:33:20.540 - INFO: [index.js:95:12] controller loader called.
+2024-01-23 15:33:20.540 - DEBUG: [external_loader.js:33:9] external_loader called.
+2024-01-23 15:33:20.541 - DEBUG: [external_loader.js:36:16] No external configuration.
+2024-01-23 15:33:20.666 - INFO: [index.js:200:20] Http Server started.
+2024-01-23 15:33:20.666 - INFO: [index.js:211:16] Base URL -> http://localhost:8001
+2024-01-23 15:33:20.667 - INFO: [index.js:216:16] Namespace -> ::_8001_16708
+2024-01-23 15:33:20.668 - DEBUG: [database_mysql.js:61:16] database SQL file loaded.
+2024-01-23 15:35:01.442 - INFO: [index.js:91:12] service loader called.
+2024-01-23 15:35:01.457 - INFO: [index.js:95:12] controller loader called.
+2024-01-23 15:35:01.458 - DEBUG: [external_loader.js:33:9] external_loader called.
+2024-01-23 15:35:01.458 - DEBUG: [external_loader.js:36:16] No external configuration.
+2024-01-23 15:35:01.700 - INFO: [index.js:200:20] Http Server started.
+2024-01-23 15:35:01.701 - INFO: [index.js:211:16] Base URL -> http://localhost:8001
+2024-01-23 15:35:01.701 - INFO: [index.js:216:16] Namespace -> ::_8001_12860
+2024-01-23 15:35:01.706 - DEBUG: [database_mysql.js:61:16] database SQL file loaded.
+2024-01-23 15:35:12.744 - DEBUG: [fcm-controller.js:69:16] fcmTest 요청됨.
+2024-01-23 15:35:12.746 - DEBUG: [param.js:19:12] GET /fcm/test requested
+2024-01-23 15:35:12.746 - DEBUG: [param.js:36:16] PARAMS -> {}
+2024-01-23 15:35:12.747 - DEBUG: [fcm-controller.js:73:16] data: undefined, token : undefined
+2024-01-23 15:37:38.314 - INFO: [index.js:91:12] service loader called.
+2024-01-23 15:37:38.330 - INFO: [index.js:95:12] controller loader called.
+2024-01-23 15:37:38.331 - DEBUG: [external_loader.js:33:9] external_loader called.
+2024-01-23 15:37:38.331 - DEBUG: [external_loader.js:36:16] No external configuration.
+2024-01-23 15:37:38.576 - INFO: [index.js:200:20] Http Server started.
+2024-01-23 15:37:38.577 - INFO: [index.js:211:16] Base URL -> http://localhost:8001
+2024-01-23 15:37:38.577 - INFO: [index.js:216:16] Namespace -> ::_8001_18484
+2024-01-23 15:37:38.580 - DEBUG: [database_mysql.js:61:16] database SQL file loaded.
+2024-01-23 15:37:41.881 - DEBUG: [fcm-controller.js:69:16] fcmTest 요청됨.
+2024-01-23 15:37:41.881 - DEBUG: [param.js:19:12] GET /fcm/test requested
+2024-01-23 15:37:41.882 - DEBUG: [param.js:36:16] PARAMS -> {}
+2024-01-23 15:37:41.882 - DEBUG: [fcm-controller.js:73:16] data: undefined, token : undefined
+2024-01-23 15:40:50.576 - INFO: [index.js:91:12] service loader called.
+2024-01-23 15:40:50.585 - INFO: [index.js:95:12] controller loader called.
+2024-01-23 15:40:50.586 - DEBUG: [external_loader.js:33:9] external_loader called.
+2024-01-23 15:40:50.586 - DEBUG: [external_loader.js:36:16] No external configuration.
+2024-01-23 15:40:50.709 - INFO: [index.js:200:20] Http Server started.
+2024-01-23 15:40:50.710 - INFO: [index.js:211:16] Base URL -> http://localhost:8001
+2024-01-23 15:40:50.710 - INFO: [index.js:216:16] Namespace -> ::_8001_17440
+2024-01-23 15:40:50.712 - DEBUG: [database_mysql.js:61:16] database SQL file loaded.
+2024-01-23 15:40:53.557 - DEBUG: [fcm-controller.js:69:16] fcmTest 요청됨.
+2024-01-23 15:40:53.558 - DEBUG: [param.js:19:12] GET /fcm/test requested
+2024-01-23 15:40:53.559 - DEBUG: [param.js:36:16] PARAMS -> {}
+2024-01-23 15:40:53.559 - DEBUG: [fcm-controller.js:73:16] data: undefined, token : undefined
+2024-01-23 15:40:53.560 - DEBUG: [fcm-controller.js:74:16] ---------------1-------
+2024-01-23 15:40:53.560 - DEBUG: [fcm-controller.js:80:16] --------------2--------
+2024-01-23 15:40:53.560 - DEBUG: [fcm-controller.js:85:16] ------------3----------
+2024-01-23 15:41:33.301 - INFO: [index.js:91:12] service loader called.
+2024-01-23 15:41:33.312 - INFO: [index.js:95:12] controller loader called.
+2024-01-23 15:41:33.312 - DEBUG: [external_loader.js:33:9] external_loader called.
+2024-01-23 15:41:33.313 - DEBUG: [external_loader.js:36:16] No external configuration.
+2024-01-23 15:41:33.464 - INFO: [index.js:200:20] Http Server started.
+2024-01-23 15:41:33.464 - INFO: [index.js:211:16] Base URL -> http://localhost:8001
+2024-01-23 15:41:33.465 - INFO: [index.js:216:16] Namespace -> ::_8001_18228
+2024-01-23 15:41:33.467 - DEBUG: [database_mysql.js:61:16] database SQL file loaded.
+2024-01-23 15:41:36.635 - DEBUG: [fcm-controller.js:69:16] fcmTest 요청됨.
+2024-01-23 15:41:36.636 - DEBUG: [param.js:19:12] GET /fcm/test requested
+2024-01-23 15:41:36.637 - DEBUG: [param.js:36:16] PARAMS -> {}
+2024-01-23 15:41:36.637 - DEBUG: [fcm-controller.js:73:16] data: undefined, token : undefined
+2024-01-23 15:41:36.638 - DEBUG: [fcm-controller.js:74:16] ---------------1-------
+2024-01-23 15:41:36.638 - DEBUG: [fcm-controller.js:80:16] --------------2--------
+2024-01-23 15:41:36.639 - DEBUG: [fcm-controller.js:85:16] ------------3----------
+2024-01-23 15:42:00.656 - INFO: [index.js:91:12] service loader called.
+2024-01-23 15:42:00.665 - INFO: [index.js:95:12] controller loader called.
+2024-01-23 15:42:00.665 - DEBUG: [external_loader.js:33:9] external_loader called.
+2024-01-23 15:42:00.666 - DEBUG: [external_loader.js:36:16] No external configuration.
+2024-01-23 15:42:00.805 - INFO: [index.js:200:20] Http Server started.
+2024-01-23 15:42:00.806 - INFO: [index.js:211:16] Base URL -> http://localhost:8001
+2024-01-23 15:42:00.806 - INFO: [index.js:216:16] Namespace -> ::_8001_18428
+2024-01-23 15:42:00.808 - DEBUG: [database_mysql.js:61:16] database SQL file loaded.
+2024-01-23 15:42:02.805 - DEBUG: [fcm-controller.js:69:16] fcmTest 요청됨.
+2024-01-23 15:42:02.806 - DEBUG: [param.js:19:12] GET /fcm/test requested
+2024-01-23 15:42:02.807 - DEBUG: [param.js:36:16] PARAMS -> {"channel":"test01","token":"eg1AtKoYSGqB6KIx2Gw1o_:APA91bETZWlw1u3KVLyxHuvz3D6cD9ppWz30UAXn6GJUe-fLWKLPMeDwKtIKS4tlIhXGSOetHN0v3o_RBg2Pd7ApdmSgnji8nwvYTxe_hTxQGnDZ6QJN2jgUIzsQDPLo4_9MkDBoa3BU","data":"gggg"}
+2024-01-23 15:42:02.808 - DEBUG: [fcm-controller.js:73:16] data: gggg, token : eg1AtKoYSGqB6KIx2Gw1o_:APA91bETZWlw1u3KVLyxHuvz3D6cD9ppWz30UAXn6GJUe-fLWKLPMeDwKtIKS4tlIhXGSOetHN0v3o_RBg2Pd7ApdmSgnji8nwvYTxe_hTxQGnDZ6QJN2jgUIzsQDPLo4_9MkDBoa3BU
+2024-01-23 15:42:02.808 - DEBUG: [fcm-controller.js:74:16] ---------------1-------
+2024-01-23 15:42:02.808 - DEBUG: [fcm-controller.js:80:16] --------------2--------
+2024-01-23 15:42:02.809 - DEBUG: [fcm-controller.js:85:16] ------------3----------
+2024-01-23 15:42:02.809 - DEBUG: [fcm-controller.js:89:16] params.token.length : 163
+2024-01-23 15:42:02.810 - DEBUG: [fcm-controller.js:105:16] regIds : eg1AtKoYSGqB6KIx2Gw1o_:APA91bETZWlw1u3KVLyxHuvz3D6cD9ppWz30UAXn6GJUe-fLWKLPMeDwKtIKS4tlIhXGSOetHN0v3o_RBg2Pd7ApdmSgnji8nwvYTxe_hTxQGnDZ6QJN2jgUIzsQDPLo4_9MkDBoa3BU
+2024-01-23 15:42:02.823 - DEBUG: [fcm-controller.js:125:20] FcmTest -> {"requestCode":"202401231542281001","id":"202401231542281002","sender":"fcm test server","receiver":"test01","receiverType":"device","dataType":"text","title":"fcm test","body":"gggg"}
+2024-01-23 15:42:04.027 - DEBUG: [fcm-controller.js:117:28] Push send success! count : 1
+2024-01-23 15:42:22.548 - DEBUG: [fcm-controller.js:69:16] fcmTest 요청됨.
+2024-01-23 15:42:22.551 - DEBUG: [param.js:19:12] GET /fcm/test requested
+2024-01-23 15:42:22.564 - DEBUG: [param.js:36:16] PARAMS -> {}
+2024-01-23 15:42:22.567 - DEBUG: [fcm-controller.js:73:16] data: undefined, token : undefined
+2024-01-23 15:42:22.568 - DEBUG: [fcm-controller.js:74:16] ---------------1-------
+2024-01-23 15:42:22.569 - DEBUG: [fcm-controller.js:80:16] --------------2--------
+2024-01-23 15:42:22.570 - DEBUG: [fcm-controller.js:85:16] ------------3----------
+2024-01-23 15:42:40.587 - INFO: [index.js:91:12] service loader called.
+2024-01-23 15:42:40.596 - INFO: [index.js:95:12] controller loader called.
+2024-01-23 15:42:40.597 - DEBUG: [external_loader.js:33:9] external_loader called.
+2024-01-23 15:42:40.598 - DEBUG: [external_loader.js:36:16] No external configuration.
+2024-01-23 15:42:40.782 - INFO: [index.js:191:20] Https Server started.
+2024-01-23 15:42:40.783 - INFO: [index.js:211:16] Base URL -> https://localhost:8001
+2024-01-23 15:42:40.783 - INFO: [index.js:216:16] Namespace -> ::_8001_1148
+2024-01-23 15:42:40.785 - DEBUG: [database_mysql.js:61:16] database SQL file loaded.
+2024-01-23 15:42:45.612 - DEBUG: [fcm-controller.js:69:16] fcmTest 요청됨.
+2024-01-23 15:42:45.614 - DEBUG: [param.js:19:12] GET /fcm/test requested
+2024-01-23 15:42:45.615 - DEBUG: [param.js:36:16] PARAMS -> {"channel":"test01","token":"eg1AtKoYSGqB6KIx2Gw1o_:APA91bETZWlw1u3KVLyxHuvz3D6cD9ppWz30UAXn6GJUe-fLWKLPMeDwKtIKS4tlIhXGSOetHN0v3o_RBg2Pd7ApdmSgnji8nwvYTxe_hTxQGnDZ6QJN2jgUIzsQDPLo4_9MkDBoa3BU","data":"gggg"}
+2024-01-23 15:42:45.616 - DEBUG: [fcm-controller.js:73:16] data: gggg, token : eg1AtKoYSGqB6KIx2Gw1o_:APA91bETZWlw1u3KVLyxHuvz3D6cD9ppWz30UAXn6GJUe-fLWKLPMeDwKtIKS4tlIhXGSOetHN0v3o_RBg2Pd7ApdmSgnji8nwvYTxe_hTxQGnDZ6QJN2jgUIzsQDPLo4_9MkDBoa3BU
+2024-01-23 15:42:45.616 - DEBUG: [fcm-controller.js:74:16] ---------------1-------
+2024-01-23 15:42:45.616 - DEBUG: [fcm-controller.js:80:16] --------------2--------
+2024-01-23 15:42:45.617 - DEBUG: [fcm-controller.js:85:16] ------------3----------
+2024-01-23 15:42:45.617 - DEBUG: [fcm-controller.js:89:16] params.token.length : 163
+2024-01-23 15:42:45.617 - DEBUG: [fcm-controller.js:105:16] regIds : eg1AtKoYSGqB6KIx2Gw1o_:APA91bETZWlw1u3KVLyxHuvz3D6cD9ppWz30UAXn6GJUe-fLWKLPMeDwKtIKS4tlIhXGSOetHN0v3o_RBg2Pd7ApdmSgnji8nwvYTxe_hTxQGnDZ6QJN2jgUIzsQDPLo4_9MkDBoa3BU
+2024-01-23 15:42:45.624 - DEBUG: [fcm-controller.js:125:20] FcmTest -> {"requestCode":"2024012315424561701","id":"2024012315424561702","sender":"fcm test server","receiver":"test01","receiverType":"device","dataType":"text","title":"fcm test","body":"gggg"}
+2024-01-23 15:42:46.538 - DEBUG: [fcm-controller.js:117:28] Push send success! count : 1
+2024-01-23 15:42:57.415 - DEBUG: [fcm-controller.js:69:16] fcmTest 요청됨.
+2024-01-23 15:42:57.416 - DEBUG: [param.js:19:12] GET /fcm/test requested
+2024-01-23 15:42:57.416 - DEBUG: [param.js:36:16] PARAMS -> {"channel":"test01","token":"eg1AtKoYSGqB6KIx2Gw1o_:APA91bETZWlw1u3KVLyxHuvz3D6cD9ppWz30UAXn6GJUe-fLWKLPMeDwKtIKS4tlIhXGSOetHN0v3o_RBg2Pd7ApdmSgnji8nwvYTxe_hTxQGnDZ6QJN2jgUIzsQDPLo4_9MkDBoa3BU","data":"gggg"}
+2024-01-23 15:42:57.417 - DEBUG: [fcm-controller.js:73:16] data: gggg, token : eg1AtKoYSGqB6KIx2Gw1o_:APA91bETZWlw1u3KVLyxHuvz3D6cD9ppWz30UAXn6GJUe-fLWKLPMeDwKtIKS4tlIhXGSOetHN0v3o_RBg2Pd7ApdmSgnji8nwvYTxe_hTxQGnDZ6QJN2jgUIzsQDPLo4_9MkDBoa3BU
+2024-01-23 15:42:57.417 - DEBUG: [fcm-controller.js:74:16] ---------------1-------
+2024-01-23 15:42:57.418 - DEBUG: [fcm-controller.js:80:16] --------------2--------
+2024-01-23 15:42:57.418 - DEBUG: [fcm-controller.js:85:16] ------------3----------
+2024-01-23 15:42:57.418 - DEBUG: [fcm-controller.js:89:16] params.token.length : 163
+2024-01-23 15:42:57.418 - DEBUG: [fcm-controller.js:105:16] regIds : eg1AtKoYSGqB6KIx2Gw1o_:APA91bETZWlw1u3KVLyxHuvz3D6cD9ppWz30UAXn6GJUe-fLWKLPMeDwKtIKS4tlIhXGSOetHN0v3o_RBg2Pd7ApdmSgnji8nwvYTxe_hTxQGnDZ6QJN2jgUIzsQDPLo4_9MkDBoa3BU
+2024-01-23 15:42:57.419 - DEBUG: [fcm-controller.js:125:20] FcmTest -> {"requestCode":"2024012315425741803","id":"2024012315425741804","sender":"fcm test server","receiver":"test01","receiverType":"device","dataType":"text","title":"fcm test","body":"gggg"}
+2024-01-23 15:42:57.948 - DEBUG: [fcm-controller.js:117:28] Push send success! count : 1
+2024-01-23 15:44:18.418 - DEBUG: [fcm-controller.js:69:16] fcmTest 요청됨.
+2024-01-23 15:44:18.418 - DEBUG: [param.js:19:12] GET /fcm/test requested
+2024-01-23 15:44:18.419 - DEBUG: [param.js:36:16] PARAMS -> {"channel":"test01","data":"{}"}
+2024-01-23 15:44:18.419 - DEBUG: [fcm-controller.js:73:16] data: {}, token : undefined
+2024-01-23 15:44:18.419 - DEBUG: [fcm-controller.js:74:16] ---------------1-------
+2024-01-23 15:44:18.420 - DEBUG: [fcm-controller.js:80:16] --------------2--------
+2024-01-23 15:44:18.420 - DEBUG: [fcm-controller.js:85:16] ------------3----------
+2024-01-23 15:44:30.928 - INFO: [index.js:91:12] service loader called.
+2024-01-23 15:44:30.936 - INFO: [index.js:95:12] controller loader called.
+2024-01-23 15:44:30.937 - DEBUG: [external_loader.js:33:9] external_loader called.
+2024-01-23 15:44:30.937 - DEBUG: [external_loader.js:36:16] No external configuration.
+2024-01-23 15:44:31.109 - INFO: [index.js:191:20] Https Server started.
+2024-01-23 15:44:31.109 - INFO: [index.js:211:16] Base URL -> https://localhost:8001
+2024-01-23 15:44:31.110 - INFO: [index.js:216:16] Namespace -> ::_8001_824
+2024-01-23 15:44:31.112 - DEBUG: [database_mysql.js:61:16] database SQL file loaded.
+2024-01-23 15:44:32.139 - DEBUG: [fcm-controller.js:69:16] fcmTest 요청됨.
+2024-01-23 15:44:32.140 - DEBUG: [param.js:19:12] GET /fcm/test requested
+2024-01-23 15:44:32.140 - DEBUG: [param.js:36:16] PARAMS -> {"token":"eg1AtKoYSGqB6KIx2Gw1o_:APA91bETZWlw1u3KVLyxHuvz3D6cD9ppWz30UAXn6GJUe-fLWKLPMeDwKtIKS4tlIhXGSOetHN0v3o_RBg2Pd7ApdmSgnji8nwvYTxe_hTxQGnDZ6QJN2jgUIzsQDPLo4_9MkDBoa3BU","data":"{}"}
+2024-01-23 15:44:32.141 - DEBUG: [fcm-controller.js:73:16] data: {}, token : eg1AtKoYSGqB6KIx2Gw1o_:APA91bETZWlw1u3KVLyxHuvz3D6cD9ppWz30UAXn6GJUe-fLWKLPMeDwKtIKS4tlIhXGSOetHN0v3o_RBg2Pd7ApdmSgnji8nwvYTxe_hTxQGnDZ6QJN2jgUIzsQDPLo4_9MkDBoa3BU
+2024-01-23 15:44:32.141 - DEBUG: [fcm-controller.js:74:16] ---------------1-------
+2024-01-23 15:44:32.141 - DEBUG: [fcm-controller.js:80:16] --------------2--------
+2024-01-23 15:44:32.142 - DEBUG: [fcm-controller.js:85:16] ------------3----------
+2024-01-23 15:44:32.142 - DEBUG: [fcm-controller.js:89:16] params.token.length : 163
+2024-01-23 15:44:32.142 - DEBUG: [fcm-controller.js:105:16] regIds : eg1AtKoYSGqB6KIx2Gw1o_:APA91bETZWlw1u3KVLyxHuvz3D6cD9ppWz30UAXn6GJUe-fLWKLPMeDwKtIKS4tlIhXGSOetHN0v3o_RBg2Pd7ApdmSgnji8nwvYTxe_hTxQGnDZ6QJN2jgUIzsQDPLo4_9MkDBoa3BU
+2024-01-23 15:44:32.151 - DEBUG: [fcm-controller.js:125:20] FcmTest -> {"requestCode":"2024012315443214201","id":"2024012315443214202","sender":"fcm test server","receiverType":"device","dataType":"text","title":"fcm test","body":"{}"}
+2024-01-23 15:44:32.152 - DEBUG: [fcm-controller.js:119:24] Push send error : Error: data must only contain string values
+2024-01-23 15:44:58.138 - INFO: [index.js:91:12] service loader called.
+2024-01-23 15:44:58.154 - INFO: [index.js:95:12] controller loader called.
+2024-01-23 15:44:58.154 - DEBUG: [external_loader.js:33:9] external_loader called.
+2024-01-23 15:44:58.155 - DEBUG: [external_loader.js:36:16] No external configuration.
+2024-01-23 15:44:58.436 - INFO: [index.js:191:20] Https Server started.
+2024-01-23 15:44:58.438 - INFO: [index.js:211:16] Base URL -> https://localhost:8001
+2024-01-23 15:44:58.439 - INFO: [index.js:216:16] Namespace -> ::_8001_18100
+2024-01-23 15:44:58.443 - DEBUG: [database_mysql.js:61:16] database SQL file loaded.
+2024-01-23 15:45:01.500 - DEBUG: [fcm-controller.js:69:16] fcmTest 요청됨.
+2024-01-23 15:45:01.501 - DEBUG: [param.js:19:12] GET /fcm/test requested
+2024-01-23 15:45:01.501 - DEBUG: [param.js:36:16] PARAMS -> {"token":"eg1AtKoYSGqB6KIx2Gw1o_:APA91bETZWlw1u3KVLyxHuvz3D6cD9ppWz30UAXn6GJUe-fLWKLPMeDwKtIKS4tlIhXGSOetHN0v3o_RBg2Pd7ApdmSgnji8nwvYTxe_hTxQGnDZ6QJN2jgUIzsQDPLo4_9MkDBoa3BU","data":"{}"}
+2024-01-23 15:45:01.502 - DEBUG: [fcm-controller.js:73:16] channel: undefined, data: {}, token : eg1AtKoYSGqB6KIx2Gw1o_:APA91bETZWlw1u3KVLyxHuvz3D6cD9ppWz30UAXn6GJUe-fLWKLPMeDwKtIKS4tlIhXGSOetHN0v3o_RBg2Pd7ApdmSgnji8nwvYTxe_hTxQGnDZ6QJN2jgUIzsQDPLo4_9MkDBoa3BU
+2024-01-23 15:45:01.502 - DEBUG: [fcm-controller.js:74:16] ---------------1-------
+2024-01-23 15:45:01.502 - DEBUG: [fcm-controller.js:80:16] --------------2--------
+2024-01-23 15:45:01.503 - DEBUG: [fcm-controller.js:85:16] ------------3----------
+2024-01-23 15:45:01.503 - DEBUG: [fcm-controller.js:89:16] params.token.length : 163
+2024-01-23 15:45:01.503 - DEBUG: [fcm-controller.js:105:16] regIds : eg1AtKoYSGqB6KIx2Gw1o_:APA91bETZWlw1u3KVLyxHuvz3D6cD9ppWz30UAXn6GJUe-fLWKLPMeDwKtIKS4tlIhXGSOetHN0v3o_RBg2Pd7ApdmSgnji8nwvYTxe_hTxQGnDZ6QJN2jgUIzsQDPLo4_9MkDBoa3BU
+2024-01-23 15:45:01.512 - DEBUG: [fcm-controller.js:125:20] FcmTest -> {"requestCode":"202401231545150301","id":"202401231545150302","sender":"fcm test server","receiverType":"device","dataType":"text","title":"fcm test","body":"{}"}
+2024-01-23 15:45:01.514 - DEBUG: [fcm-controller.js:119:24] Push send error : Error: data must only contain string values
+2024-01-23 15:47:19.725 - INFO: [index.js:91:12] service loader called.
+2024-01-23 15:47:19.745 - INFO: [index.js:95:12] controller loader called.
+2024-01-23 15:47:19.746 - DEBUG: [external_loader.js:33:9] external_loader called.
+2024-01-23 15:47:19.747 - DEBUG: [external_loader.js:36:16] No external configuration.
+2024-01-23 15:47:20.143 - INFO: [index.js:191:20] Https Server started.
+2024-01-23 15:47:20.144 - INFO: [index.js:211:16] Base URL -> https://localhost:8001
+2024-01-23 15:47:20.144 - INFO: [index.js:216:16] Namespace -> ::_8001_2744
+2024-01-23 15:47:20.148 - DEBUG: [database_mysql.js:61:16] database SQL file loaded.
+2024-01-23 15:47:35.936 - INFO: [index.js:91:12] service loader called.
+2024-01-23 15:47:35.948 - INFO: [index.js:95:12] controller loader called.
+2024-01-23 15:47:35.949 - DEBUG: [external_loader.js:33:9] external_loader called.
+2024-01-23 15:47:35.949 - DEBUG: [external_loader.js:36:16] No external configuration.
+2024-01-23 15:47:36.164 - INFO: [index.js:191:20] Https Server started.
+2024-01-23 15:47:36.165 - INFO: [index.js:211:16] Base URL -> https://localhost:8001
+2024-01-23 15:47:36.165 - INFO: [index.js:216:16] Namespace -> ::_8001_7004
+2024-01-23 15:47:36.167 - DEBUG: [database_mysql.js:61:16] database SQL file loaded.
+2024-01-23 15:47:49.814 - DEBUG: [fcm-controller.js:69:16] fcmTest 요청됨.
+2024-01-23 15:47:49.815 - DEBUG: [param.js:19:12] GET /fcm/test requested
+2024-01-23 15:47:49.815 - DEBUG: [param.js:36:16] PARAMS -> {"token":"eg1AtKoYSGqB6KIx2Gw1o_:APA91bETZWlw1u3KVLyxHuvz3D6cD9ppWz30UAXn6GJUe-fLWKLPMeDwKtIKS4tlIhXGSOetHN0v3o_RBg2Pd7ApdmSgnji8nwvYTxe_hTxQGnDZ6QJN2jgUIzsQDPLo4_9MkDBoa3BU","data":"{}"}
+2024-01-23 15:47:49.815 - DEBUG: [fcm-controller.js:71:16] channel: undefined, data: {}, token : eg1AtKoYSGqB6KIx2Gw1o_:APA91bETZWlw1u3KVLyxHuvz3D6cD9ppWz30UAXn6GJUe-fLWKLPMeDwKtIKS4tlIhXGSOetHN0v3o_RBg2Pd7ApdmSgnji8nwvYTxe_hTxQGnDZ6QJN2jgUIzsQDPLo4_9MkDBoa3BU
+2024-01-23 15:47:49.816 - DEBUG: [fcm-controller.js:84:16] ------------3----------
+2024-01-23 15:47:49.816 - DEBUG: [fcm-controller.js:89:16] params.token.length : 163
+2024-01-23 15:47:49.817 - DEBUG: [fcm-controller.js:105:16] regIds : eg1AtKoYSGqB6KIx2Gw1o_:APA91bETZWlw1u3KVLyxHuvz3D6cD9ppWz30UAXn6GJUe-fLWKLPMeDwKtIKS4tlIhXGSOetHN0v3o_RBg2Pd7ApdmSgnji8nwvYTxe_hTxQGnDZ6QJN2jgUIzsQDPLo4_9MkDBoa3BU
+2024-01-23 15:47:49.823 - DEBUG: [fcm-controller.js:125:20] FcmTest -> {"requestCode":"2024012315474981601","id":"2024012315474981602","sender":"fcm test server","receiverType":"device","dataType":"text","title":"fcm test","body":"{}"}
+2024-01-23 15:47:49.826 - DEBUG: [fcm-controller.js:119:24] Push send error : Error: data must only contain string values
+2024-01-23 15:47:56.634 - DEBUG: [fcm-controller.js:69:16] fcmTest 요청됨.
+2024-01-23 15:47:56.634 - DEBUG: [param.js:19:12] GET /fcm/test requested
+2024-01-23 15:47:56.635 - DEBUG: [param.js:36:16] PARAMS -> {"channel":"test01","data":"{}"}
+2024-01-23 15:47:56.635 - DEBUG: [fcm-controller.js:71:16] channel: test01, data: {}, token : undefined
+2024-01-23 15:47:56.635 - DEBUG: [fcm-controller.js:84:16] ------------3----------
+2024-01-23 15:50:27.756 - INFO: [index.js:91:12] service loader called.
+2024-01-23 15:50:27.763 - INFO: [index.js:95:12] controller loader called.
+2024-01-23 15:50:27.764 - DEBUG: [external_loader.js:33:9] external_loader called.
+2024-01-23 15:50:27.764 - DEBUG: [external_loader.js:36:16] No external configuration.
+2024-01-23 15:50:27.930 - INFO: [index.js:191:20] Https Server started.
+2024-01-23 15:50:27.931 - INFO: [index.js:211:16] Base URL -> https://localhost:8001
+2024-01-23 15:50:27.931 - INFO: [index.js:216:16] Namespace -> ::_8001_19940
+2024-01-23 15:50:27.933 - DEBUG: [database_mysql.js:61:16] database SQL file loaded.
+2024-01-23 15:50:33.339 - DEBUG: [fcm-controller.js:69:16] fcmTest 요청됨.
+2024-01-23 15:50:33.339 - DEBUG: [param.js:19:12] GET /fcm/test requested
+2024-01-23 15:50:33.340 - DEBUG: [param.js:36:16] PARAMS -> {"data":"{}"}
+2024-01-23 15:50:33.340 - DEBUG: [fcm-controller.js:74:20] params: [object Object]
+2024-01-23 15:50:33.342 - ERROR: [fcm-controller.js:128:20] Error in FcmController:FcmTest -> TypeError: Cannot read properties of undefined (reading 'length')
+2024-01-23 15:50:39.907 - DEBUG: [fcm-controller.js:69:16] fcmTest 요청됨.
+2024-01-23 15:50:39.907 - DEBUG: [param.js:19:12] GET /fcm/test requested
+2024-01-23 15:50:39.908 - DEBUG: [param.js:36:16] PARAMS -> {"token":"eg1AtKoYSGqB6KIx2Gw1o_:APA91bETZWlw1u3KVLyxHuvz3D6cD9ppWz30UAXn6GJUe-fLWKLPMeDwKtIKS4tlIhXGSOetHN0v3o_RBg2Pd7ApdmSgnji8nwvYTxe_hTxQGnDZ6QJN2jgUIzsQDPLo4_9MkDBoa3BU","data":"{}"}
+2024-01-23 15:50:39.909 - DEBUG: [fcm-controller.js:74:20] params: [object Object]
+2024-01-23 15:50:39.909 - DEBUG: [fcm-controller.js:106:20] regIds : eg1AtKoYSGqB6KIx2Gw1o_:APA91bETZWlw1u3KVLyxHuvz3D6cD9ppWz30UAXn6GJUe-fLWKLPMeDwKtIKS4tlIhXGSOetHN0v3o_RBg2Pd7ApdmSgnji8nwvYTxe_hTxQGnDZ6QJN2jgUIzsQDPLo4_9MkDBoa3BU
+2024-01-23 15:50:39.915 - DEBUG: [fcm-controller.js:125:20] FcmTest -> {"requestCode":"2024012315503990901","id":"2024012315503990902","sender":"fcm test server","receiverType":"device","dataType":"text","title":"fcm test","body":"{}"}
+2024-01-23 15:50:39.916 - DEBUG: [fcm-controller.js:120:28] Push send error : Error: data must only contain string values
+2024-01-23 15:50:52.481 - DEBUG: [fcm-controller.js:69:16] fcmTest 요청됨.
+2024-01-23 15:50:52.482 - DEBUG: [param.js:19:12] GET /fcm/test requested
+2024-01-23 15:50:52.482 - DEBUG: [param.js:36:16] PARAMS -> {"data":"{}"}
+2024-01-23 15:50:52.482 - DEBUG: [fcm-controller.js:74:20] params: [object Object]
+2024-01-23 15:50:52.483 - ERROR: [fcm-controller.js:128:20] Error in FcmController:FcmTest -> TypeError: Cannot read properties of undefined (reading 'length')
+2024-01-23 15:50:56.648 - DEBUG: [fcm-controller.js:69:16] fcmTest 요청됨.
+2024-01-23 15:50:56.648 - DEBUG: [param.js:19:12] GET /fcm/test requested
+2024-01-23 15:50:56.649 - DEBUG: [param.js:36:16] PARAMS -> {"channel":"test01","data":"{}"}
+2024-01-23 15:50:56.649 - DEBUG: [fcm-controller.js:74:20] params: [object Object]
+2024-01-23 15:50:56.650 - ERROR: [fcm-controller.js:128:20] Error in FcmController:FcmTest -> TypeError: Cannot read properties of undefined (reading 'length')
+2024-01-23 15:50:59.660 - DEBUG: [fcm-controller.js:69:16] fcmTest 요청됨.
+2024-01-23 15:50:59.661 - DEBUG: [param.js:19:12] GET /fcm/test requested
+2024-01-23 15:50:59.661 - DEBUG: [param.js:36:16] PARAMS -> {"token":"eg1AtKoYSGqB6KIx2Gw1o_:APA91bETZWlw1u3KVLyxHuvz3D6cD9ppWz30UAXn6GJUe-fLWKLPMeDwKtIKS4tlIhXGSOetHN0v3o_RBg2Pd7ApdmSgnji8nwvYTxe_hTxQGnDZ6QJN2jgUIzsQDPLo4_9MkDBoa3BU","data":"{}"}
+2024-01-23 15:50:59.661 - DEBUG: [fcm-controller.js:74:20] params: [object Object]
+2024-01-23 15:50:59.662 - DEBUG: [fcm-controller.js:106:20] regIds : eg1AtKoYSGqB6KIx2Gw1o_:APA91bETZWlw1u3KVLyxHuvz3D6cD9ppWz30UAXn6GJUe-fLWKLPMeDwKtIKS4tlIhXGSOetHN0v3o_RBg2Pd7ApdmSgnji8nwvYTxe_hTxQGnDZ6QJN2jgUIzsQDPLo4_9MkDBoa3BU
+2024-01-23 15:50:59.662 - DEBUG: [fcm-controller.js:125:20] FcmTest -> {"requestCode":"2024012315505966103","id":"2024012315505966104","sender":"fcm test server","receiverType":"device","dataType":"text","title":"fcm test","body":"{}"}
+2024-01-23 15:50:59.662 - DEBUG: [fcm-controller.js:120:28] Push send error : Error: data must only contain string values
+2024-01-23 15:51:02.622 - DEBUG: [fcm-controller.js:69:16] fcmTest 요청됨.
+2024-01-23 15:51:02.623 - DEBUG: [param.js:19:12] GET /fcm/test requested
+2024-01-23 15:51:02.623 - DEBUG: [param.js:36:16] PARAMS -> {"channel":"test01","token":"eg1AtKoYSGqB6KIx2Gw1o_:APA91bETZWlw1u3KVLyxHuvz3D6cD9ppWz30UAXn6GJUe-fLWKLPMeDwKtIKS4tlIhXGSOetHN0v3o_RBg2Pd7ApdmSgnji8nwvYTxe_hTxQGnDZ6QJN2jgUIzsQDPLo4_9MkDBoa3BU"}
+2024-01-23 15:51:02.623 - DEBUG: [fcm-controller.js:74:20] params: [object Object]
+2024-01-23 15:51:02.624 - DEBUG: [fcm-controller.js:106:20] regIds : eg1AtKoYSGqB6KIx2Gw1o_:APA91bETZWlw1u3KVLyxHuvz3D6cD9ppWz30UAXn6GJUe-fLWKLPMeDwKtIKS4tlIhXGSOetHN0v3o_RBg2Pd7ApdmSgnji8nwvYTxe_hTxQGnDZ6QJN2jgUIzsQDPLo4_9MkDBoa3BU
+2024-01-23 15:51:02.624 - DEBUG: [fcm-controller.js:125:20] FcmTest -> {"requestCode":"202401231551262405","id":"202401231551262406","sender":"fcm test server","receiver":"test01","receiverType":"device","dataType":"text","title":"fcm test"}
+2024-01-23 15:51:02.625 - DEBUG: [fcm-controller.js:120:28] Push send error : Error: data must only contain string values
+2024-01-23 15:51:06.391 - DEBUG: [fcm-controller.js:69:16] fcmTest 요청됨.
+2024-01-23 15:51:06.391 - DEBUG: [param.js:19:12] GET /fcm/test requested
+2024-01-23 15:51:06.391 - DEBUG: [param.js:36:16] PARAMS -> {"data":"{}"}
+2024-01-23 15:51:06.392 - DEBUG: [fcm-controller.js:74:20] params: [object Object]
+2024-01-23 15:51:06.392 - ERROR: [fcm-controller.js:128:20] Error in FcmController:FcmTest -> TypeError: Cannot read properties of undefined (reading 'length')
+2024-01-23 15:51:32.851 - INFO: [index.js:91:12] service loader called.
+2024-01-23 15:51:32.861 - INFO: [index.js:95:12] controller loader called.
+2024-01-23 15:51:32.861 - DEBUG: [external_loader.js:33:9] external_loader called.
+2024-01-23 15:51:32.861 - DEBUG: [external_loader.js:36:16] No external configuration.
+2024-01-23 15:51:33.036 - INFO: [index.js:191:20] Https Server started.
+2024-01-23 15:51:33.037 - INFO: [index.js:211:16] Base URL -> https://localhost:8001
+2024-01-23 15:51:33.037 - INFO: [index.js:216:16] Namespace -> ::_8001_18824
+2024-01-23 15:51:33.039 - DEBUG: [database_mysql.js:61:16] database SQL file loaded.
+2024-01-23 15:51:35.040 - DEBUG: [fcm-controller.js:69:16] fcmTest 요청됨.
+2024-01-23 15:51:35.040 - DEBUG: [param.js:19:12] GET /fcm/test requested
+2024-01-23 15:51:35.041 - DEBUG: [param.js:36:16] PARAMS -> {"data":"{}"}
+2024-01-23 15:51:35.041 - DEBUG: [fcm-controller.js:74:20] params: [object Object]
+2024-01-23 15:51:35.043 - ERROR: [fcm-controller.js:128:20] Error in FcmController:FcmTest -> TypeError: Cannot read properties of undefined (reading 'length')
+2024-01-23 15:51:53.231 - DEBUG: [fcm-controller.js:69:16] fcmTest 요청됨.
+2024-01-23 15:51:53.231 - DEBUG: [param.js:19:12] GET /fcm/test requested
+2024-01-23 15:51:53.232 - DEBUG: [param.js:36:16] PARAMS -> {"channel":"test01","data":"{}"}
+2024-01-23 15:51:53.232 - DEBUG: [fcm-controller.js:74:20] params: [object Object]
+2024-01-23 15:51:53.233 - ERROR: [fcm-controller.js:128:20] Error in FcmController:FcmTest -> TypeError: Cannot read properties of undefined (reading 'length')
+2024-01-23 15:52:00.460 - DEBUG: [fcm-controller.js:69:16] fcmTest 요청됨.
+2024-01-23 15:52:00.460 - DEBUG: [param.js:19:12] GET /fcm/test requested
+2024-01-23 15:52:00.461 - DEBUG: [param.js:36:16] PARAMS -> {"channel":"test01","token":"eg1AtKoYSGqB6KIx2Gw1o_:APA91bETZWlw1u3KVLyxHuvz3D6cD9ppWz30UAXn6GJUe-fLWKLPMeDwKtIKS4tlIhXGSOetHN0v3o_RBg2Pd7ApdmSgnji8nwvYTxe_hTxQGnDZ6QJN2jgUIzsQDPLo4_9MkDBoa3BU","data":"{}"}
+2024-01-23 15:52:00.461 - DEBUG: [fcm-controller.js:74:20] params: [object Object]
+2024-01-23 15:52:00.461 - DEBUG: [fcm-controller.js:106:20] regIds : eg1AtKoYSGqB6KIx2Gw1o_:APA91bETZWlw1u3KVLyxHuvz3D6cD9ppWz30UAXn6GJUe-fLWKLPMeDwKtIKS4tlIhXGSOetHN0v3o_RBg2Pd7ApdmSgnji8nwvYTxe_hTxQGnDZ6QJN2jgUIzsQDPLo4_9MkDBoa3BU
+2024-01-23 15:52:00.468 - DEBUG: [fcm-controller.js:125:20] FcmTest -> {"requestCode":"202401231552046101","id":"202401231552046102","sender":"fcm test server","receiver":"test01","receiverType":"device","dataType":"text","title":"fcm test","body":"{}"}
+2024-01-23 15:52:01.735 - DEBUG: [fcm-controller.js:118:32] Push send success! count : 1
+2024-01-23 15:52:42.194 - INFO: [index.js:91:12] service loader called.
+2024-01-23 15:52:42.222 - INFO: [index.js:95:12] controller loader called.
+2024-01-23 15:52:42.224 - DEBUG: [external_loader.js:33:9] external_loader called.
+2024-01-23 15:52:42.225 - DEBUG: [external_loader.js:36:16] No external configuration.
+2024-01-23 15:52:42.844 - INFO: [index.js:191:20] Https Server started.
+2024-01-23 15:52:42.845 - INFO: [index.js:211:16] Base URL -> https://localhost:8001
+2024-01-23 15:52:42.846 - INFO: [index.js:216:16] Namespace -> ::_8001_18692
+2024-01-23 15:52:42.852 - DEBUG: [database_mysql.js:61:16] database SQL file loaded.
+2024-01-23 15:52:45.557 - DEBUG: [fcm-controller.js:69:16] fcmTest 요청됨.
+2024-01-23 15:52:45.558 - DEBUG: [param.js:19:12] GET /fcm/test requested
+2024-01-23 15:52:45.559 - DEBUG: [param.js:36:16] PARAMS -> {"token":"eg1AtKoYSGqB6KIx2Gw1o_:APA91bETZWlw1u3KVLyxHuvz3D6cD9ppWz30UAXn6GJUe-fLWKLPMeDwKtIKS4tlIhXGSOetHN0v3o_RBg2Pd7ApdmSgnji8nwvYTxe_hTxQGnDZ6QJN2jgUIzsQDPLo4_9MkDBoa3BU","data":"{}"}
+2024-01-23 15:52:45.559 - DEBUG: [fcm-controller.js:74:20] params: [object Object]
+2024-01-23 15:52:45.562 - ERROR: [fcm-controller.js:128:20] Error in FcmController:FcmTest -> ReferenceError: err is not defined
+2024-01-23 15:53:35.230 - INFO: [index.js:91:12] service loader called.
+2024-01-23 15:53:35.270 - INFO: [index.js:95:12] controller loader called.
+2024-01-23 15:53:35.272 - DEBUG: [external_loader.js:33:9] external_loader called.
+2024-01-23 15:53:35.273 - DEBUG: [external_loader.js:36:16] No external configuration.
+2024-01-23 15:53:35.759 - INFO: [index.js:191:20] Https Server started.
+2024-01-23 15:53:35.760 - INFO: [index.js:211:16] Base URL -> https://localhost:8001
+2024-01-23 15:53:35.761 - INFO: [index.js:216:16] Namespace -> ::_8001_15288
+2024-01-23 15:53:35.766 - DEBUG: [database_mysql.js:61:16] database SQL file loaded.
+2024-01-23 15:53:38.298 - DEBUG: [fcm-controller.js:69:16] fcmTest 요청됨.
+2024-01-23 15:53:38.299 - DEBUG: [param.js:19:12] GET /fcm/test requested
+2024-01-23 15:53:38.301 - DEBUG: [param.js:36:16] PARAMS -> {"token":"eg1AtKoYSGqB6KIx2Gw1o_:APA91bETZWlw1u3KVLyxHuvz3D6cD9ppWz30UAXn6GJUe-fLWKLPMeDwKtIKS4tlIhXGSOetHN0v3o_RBg2Pd7ApdmSgnji8nwvYTxe_hTxQGnDZ6QJN2jgUIzsQDPLo4_9MkDBoa3BU","data":"{}"}
+2024-01-23 15:53:38.301 - DEBUG: [fcm-controller.js:74:20] params: [object Object]
+2024-01-23 15:53:38.304 - ERROR: [fcm-controller.js:128:20] Error in FcmController:FcmTest -> ReferenceError: err is not defined
+2024-01-23 15:54:51.281 - INFO: [index.js:91:12] service loader called.
+2024-01-23 15:54:51.291 - INFO: [index.js:95:12] controller loader called.
+2024-01-23 15:54:51.291 - DEBUG: [external_loader.js:33:9] external_loader called.
+2024-01-23 15:54:51.291 - DEBUG: [external_loader.js:36:16] No external configuration.
+2024-01-23 15:54:51.468 - INFO: [index.js:191:20] Https Server started.
+2024-01-23 15:54:51.469 - INFO: [index.js:211:16] Base URL -> https://localhost:8001
+2024-01-23 15:54:51.469 - INFO: [index.js:216:16] Namespace -> ::_8001_17136
+2024-01-23 15:54:51.471 - DEBUG: [database_mysql.js:61:16] database SQL file loaded.
+2024-01-23 15:54:54.209 - DEBUG: [fcm-controller.js:69:16] fcmTest 요청됨.
+2024-01-23 15:54:54.210 - DEBUG: [param.js:19:12] GET /fcm/test requested
+2024-01-23 15:54:54.211 - DEBUG: [param.js:36:16] PARAMS -> {"token":"eg1AtKoYSGqB6KIx2Gw1o_:APA91bETZWlw1u3KVLyxHuvz3D6cD9ppWz30UAXn6GJUe-fLWKLPMeDwKtIKS4tlIhXGSOetHN0v3o_RBg2Pd7ApdmSgnji8nwvYTxe_hTxQGnDZ6QJN2jgUIzsQDPLo4_9MkDBoa3BU","data":"{}"}
+2024-01-23 15:54:54.211 - DEBUG: [fcm-controller.js:74:20] params: [object Object]
+2024-01-23 15:54:54.212 - ERROR: [fcm-controller.js:83:24] Parameter channel is undefined.
+2024-01-23 15:54:59.432 - DEBUG: [fcm-controller.js:69:16] fcmTest 요청됨.
+2024-01-23 15:54:59.432 - DEBUG: [param.js:19:12] GET /fcm/test requested
+2024-01-23 15:54:59.433 - DEBUG: [param.js:36:16] PARAMS -> {"channel":"test01","data":"{}"}
+2024-01-23 15:54:59.433 - DEBUG: [fcm-controller.js:74:20] params: [object Object]
+2024-01-23 15:54:59.434 - ERROR: [fcm-controller.js:77:24] Parameter token is undefined.
+2024-01-23 15:55:02.060 - DEBUG: [fcm-controller.js:69:16] fcmTest 요청됨.
+2024-01-23 15:55:02.061 - DEBUG: [param.js:19:12] GET /fcm/test requested
+2024-01-23 15:55:02.061 - DEBUG: [param.js:36:16] PARAMS -> {"channel":"test01","token":"eg1AtKoYSGqB6KIx2Gw1o_:APA91bETZWlw1u3KVLyxHuvz3D6cD9ppWz30UAXn6GJUe-fLWKLPMeDwKtIKS4tlIhXGSOetHN0v3o_RBg2Pd7ApdmSgnji8nwvYTxe_hTxQGnDZ6QJN2jgUIzsQDPLo4_9MkDBoa3BU"}
+2024-01-23 15:55:02.061 - DEBUG: [fcm-controller.js:74:20] params: [object Object]
+2024-01-23 15:55:02.062 - ERROR: [fcm-controller.js:89:24] Parameter data is undefined.
+2024-01-23 15:55:18.230 - DEBUG: [fcm-controller.js:69:16] fcmTest 요청됨.
+2024-01-23 15:55:18.230 - DEBUG: [param.js:19:12] GET /fcm/test requested
+2024-01-23 15:55:18.231 - DEBUG: [param.js:36:16] PARAMS -> {"channel":"test01","token":"eg1AtKoYSGqB6KIx2Gw1o_:APA91bETZWlw1u3KVLyxHuvz3D6cD9ppWz30UAXn6GJUe-fLWKLPMeDwKtIKS4tlIhXGSOetHN0v3o_RBg2Pd7ApdmSgnji8nwvYTxe_hTxQGnDZ6QJN2jgUIzsQDPLo4_9MkDBoa3BU","data":"{abc:deg,aaa:fds}"}
+2024-01-23 15:55:18.231 - DEBUG: [fcm-controller.js:74:20] params: [object Object]
+2024-01-23 15:55:18.231 - DEBUG: [fcm-controller.js:110:20] regIds : eg1AtKoYSGqB6KIx2Gw1o_:APA91bETZWlw1u3KVLyxHuvz3D6cD9ppWz30UAXn6GJUe-fLWKLPMeDwKtIKS4tlIhXGSOetHN0v3o_RBg2Pd7ApdmSgnji8nwvYTxe_hTxQGnDZ6QJN2jgUIzsQDPLo4_9MkDBoa3BU
+2024-01-23 15:55:18.237 - DEBUG: [fcm-controller.js:129:20] FcmTest -> {"requestCode":"2024012315551823101","id":"2024012315551823102","sender":"fcm test server","receiver":"test01","receiverType":"device","dataType":"text","title":"fcm test","body":"{abc:deg,aaa:fds}"}
+2024-01-23 15:55:19.198 - DEBUG: [fcm-controller.js:122:32] Push send success! count : 1
+2024-01-23 15:55:37.888 - DEBUG: [fcm-controller.js:69:16] fcmTest 요청됨.
+2024-01-23 15:55:37.888 - DEBUG: [param.js:19:12] GET /fcm/test requested
+2024-01-23 15:55:37.889 - DEBUG: [param.js:36:16] PARAMS -> {"channel":"test01","token":"eg1AtKoYSGqB6KIx2Gw1o_:APA91bETZWlw1u3KVLyxHuvz3D6cD9ppWz30UAXn6GJUe-fLWKLPMeDwKtIKS4tlIhXGSOetHN0v3o_RBg2Pd7ApdmSgnji8nwvYTxe_hTxQGnDZ6QJN2jgUIzsQDPLo4_9MkDBoa3BU","data":"{abc: deg,aaa: fds}"}
+2024-01-23 15:55:37.889 - DEBUG: [fcm-controller.js:74:20] params: [object Object]
+2024-01-23 15:55:37.889 - DEBUG: [fcm-controller.js:110:20] regIds : eg1AtKoYSGqB6KIx2Gw1o_:APA91bETZWlw1u3KVLyxHuvz3D6cD9ppWz30UAXn6GJUe-fLWKLPMeDwKtIKS4tlIhXGSOetHN0v3o_RBg2Pd7ApdmSgnji8nwvYTxe_hTxQGnDZ6QJN2jgUIzsQDPLo4_9MkDBoa3BU
+2024-01-23 15:55:37.890 - DEBUG: [fcm-controller.js:129:20] FcmTest -> {"requestCode":"2024012315553788903","id":"2024012315553788904","sender":"fcm test server","receiver":"test01","receiverType":"device","dataType":"text","title":"fcm test","body":"{abc: deg,aaa: fds}"}
+2024-01-23 15:55:38.309 - DEBUG: [fcm-controller.js:122:32] Push send success! count : 1
+2024-01-23 17:45:20.812 - INFO: [index.js:91:12] service loader called.
+2024-01-23 17:45:20.823 - INFO: [index.js:95:12] controller loader called.
+2024-01-23 17:45:20.823 - DEBUG: [external_loader.js:33:9] external_loader called.
+2024-01-23 17:45:20.824 - DEBUG: [external_loader.js:36:16] No external configuration.
+2024-01-23 17:45:21.011 - INFO: [index.js:191:20] Https Server started.
+2024-01-23 17:45:21.011 - INFO: [index.js:211:16] Base URL -> https://localhost:8001
+2024-01-23 17:45:21.012 - INFO: [index.js:216:16] Namespace -> ::_8001_11116
+2024-01-23 17:45:21.015 - DEBUG: [database_mysql.js:61:16] database SQL file loaded.
+2024-01-23 17:45:25.760 - DEBUG: [fcm-controller.js:69:16] fcmTest 요청됨.
+2024-01-23 17:45:25.761 - DEBUG: [param.js:19:12] GET /fcm/test requested
+2024-01-23 17:45:25.762 - DEBUG: [param.js:36:16] PARAMS -> {"channel":"test01","token":"eg1AtKoYSGqB6KIx2Gw1o_:APA91bETZWlw1u3KVLyxHuvz3D6cD9ppWz30UAXn6GJUe-fLWKLPMeDwKtIKS4tlIhXGSOetHN0v3o_RBg2Pd7ApdmSgnji8nwvYTxe_hTxQGnDZ6QJN2jgUIzsQDPLo4_9MkDBoa3BU","data":"{abc: deg,aaa: fds}"}
+2024-01-23 17:45:25.762 - DEBUG: [fcm-controller.js:74:20] params: [object Object]
+2024-01-23 17:45:25.763 - DEBUG: [fcm-controller.js:110:20] regIds : eg1AtKoYSGqB6KIx2Gw1o_:APA91bETZWlw1u3KVLyxHuvz3D6cD9ppWz30UAXn6GJUe-fLWKLPMeDwKtIKS4tlIhXGSOetHN0v3o_RBg2Pd7ApdmSgnji8nwvYTxe_hTxQGnDZ6QJN2jgUIzsQDPLo4_9MkDBoa3BU
+2024-01-23 17:45:25.782 - DEBUG: [fcm-controller.js:129:20] FcmTest -> {"requestCode":"2024012317452576201","id":"2024012317452576202","sender":"fcm test server","receiver":"test01","receiverType":"device","dataType":"text","title":"fcm test","body":"{abc: deg,aaa: fds}"}
+2024-01-23 17:45:26.688 - DEBUG: [fcm-controller.js:122:32] Push send success! count : 1
+2024-01-23 18:44:14.948 - DEBUG: [fcm-controller.js:69:16] fcmTest 요청됨.
+2024-01-23 18:44:14.949 - DEBUG: [param.js:19:12] GET /fcm/test requested
+2024-01-23 18:44:14.950 - DEBUG: [param.js:36:16] PARAMS -> {"channel":"test01","token":"eg1AtKoYSGqB6KIx2Gw1o_:APA91bETZWlw1u3KVLyxHuvz3D6cD9ppWz30UAXn6GJUe-fLWKLPMeDwKtIKS4tlIhXGSOetHN0v3o_RBg2Pd7ApdmSgnji8nwvYTxe_hTxQGnDZ6QJN2jgUIzsQDPLo4_9MkDBoa3BU","data":"{abc: deg,aaa: fds}"}
+2024-01-23 18:44:14.951 - DEBUG: [fcm-controller.js:74:20] params: [object Object]
+2024-01-23 18:44:14.952 - DEBUG: [fcm-controller.js:110:20] regIds : eg1AtKoYSGqB6KIx2Gw1o_:APA91bETZWlw1u3KVLyxHuvz3D6cD9ppWz30UAXn6GJUe-fLWKLPMeDwKtIKS4tlIhXGSOetHN0v3o_RBg2Pd7ApdmSgnji8nwvYTxe_hTxQGnDZ6QJN2jgUIzsQDPLo4_9MkDBoa3BU
+2024-01-23 18:44:14.954 - DEBUG: [fcm-controller.js:129:20] FcmTest -> {"requestCode":"2024012318441495203","id":"2024012318441495204","sender":"fcm test server","receiver":"test01","receiverType":"device","dataType":"text","title":"fcm test","body":"{abc: deg,aaa: fds}"}
+2024-01-23 18:44:15.845 - DEBUG: [fcm-controller.js:122:32] Push send success! count : 1
+2024-01-23 18:44:24.213 - DEBUG: [fcm-controller.js:69:16] fcmTest 요청됨.
+2024-01-23 18:44:24.214 - DEBUG: [param.js:19:12] GET /fcm/test requested
+2024-01-23 18:44:24.214 - DEBUG: [param.js:36:16] PARAMS -> {"channel":"test01","token":"eg1AtKoYSGqB6KIx2Gw1o_:APA91bETZWlw1u3KVLyxHuvz3D6cD9ppWz30UAXn6GJUe-fLWKLPMeDwKtIKS4tlIhXGSOetHN0v3o_RBg2Pd7ApdmSgnji8nwvYTxe_hTxQGnDZ6QJN2jgUIzsQDPLo4_9MkDBoa3BU","data":"{abc: deg,aaa: fds}"}
+2024-01-23 18:44:24.214 - DEBUG: [fcm-controller.js:74:20] params: [object Object]
+2024-01-23 18:44:24.215 - DEBUG: [fcm-controller.js:110:20] regIds : eg1AtKoYSGqB6KIx2Gw1o_:APA91bETZWlw1u3KVLyxHuvz3D6cD9ppWz30UAXn6GJUe-fLWKLPMeDwKtIKS4tlIhXGSOetHN0v3o_RBg2Pd7ApdmSgnji8nwvYTxe_hTxQGnDZ6QJN2jgUIzsQDPLo4_9MkDBoa3BU
+2024-01-23 18:44:24.215 - DEBUG: [fcm-controller.js:129:20] FcmTest -> {"requestCode":"2024012318442421505","id":"2024012318442421506","sender":"fcm test server","receiver":"test01","receiverType":"device","dataType":"text","title":"fcm test","body":"{abc: deg,aaa: fds}"}
+2024-01-23 18:44:24.766 - DEBUG: [fcm-controller.js:122:32] Push send success! count : 1
+2024-01-23 18:45:32.433 - DEBUG: [fcm-controller.js:69:16] fcmTest 요청됨.
+2024-01-23 18:45:32.433 - DEBUG: [param.js:19:12] GET /fcm/test requested
+2024-01-23 18:45:32.434 - DEBUG: [param.js:36:16] PARAMS -> {"sender":"test02","receiver":"test01","channel":"test01","token":"dLkcQc4_TROGdhvDVA84-A:APA91bHvOuClgW-d1tcjuUApAoHL_xLsVL_enYy1AlyrF0VYvS-wJMatry3293ac8RMdEGYoQ0AQma5Jkm1YdMV7RO4ZSVDnuNOi6owy992nb4dmLb0ytdu86mBb9ntGhJx2_8kUKv4f","data":"ㅎㅎㄹ"}
+2024-01-23 18:45:32.434 - DEBUG: [fcm-controller.js:74:20] params: [object Object]
+2024-01-23 18:45:32.434 - DEBUG: [fcm-controller.js:110:20] regIds : dLkcQc4_TROGdhvDVA84-A:APA91bHvOuClgW-d1tcjuUApAoHL_xLsVL_enYy1AlyrF0VYvS-wJMatry3293ac8RMdEGYoQ0AQma5Jkm1YdMV7RO4ZSVDnuNOi6owy992nb4dmLb0ytdu86mBb9ntGhJx2_8kUKv4f
+2024-01-23 18:45:32.435 - DEBUG: [fcm-controller.js:129:20] FcmTest -> {"requestCode":"2024012318453243407","id":"2024012318453243408","sender":"fcm test server","receiver":"test01","receiverType":"device","dataType":"text","title":"fcm test","body":"ㅎㅎㄹ"}
+2024-01-23 18:45:32.967 - DEBUG: [fcm-controller.js:122:32] Push send success! count : 1
+2024-01-23 18:45:37.307 - DEBUG: [fcm-controller.js:69:16] fcmTest 요청됨.
+2024-01-23 18:45:37.308 - DEBUG: [param.js:19:12] GET /fcm/test requested
+2024-01-23 18:45:37.309 - DEBUG: [param.js:36:16] PARAMS -> {"sender":"test01","receiver":"test02","channel":"test02","token":"eg1AtKoYSGqB6KIx2Gw1o_:APA91bETZWlw1u3KVLyxHuvz3D6cD9ppWz30UAXn6GJUe-fLWKLPMeDwKtIKS4tlIhXGSOetHN0v3o_RBg2Pd7ApdmSgnji8nwvYTxe_hTxQGnDZ6QJN2jgUIzsQDPLo4_9MkDBoa3BU","data":"aaaa"}
+2024-01-23 18:45:37.310 - DEBUG: [fcm-controller.js:74:20] params: [object Object]
+2024-01-23 18:45:37.311 - DEBUG: [fcm-controller.js:110:20] regIds : eg1AtKoYSGqB6KIx2Gw1o_:APA91bETZWlw1u3KVLyxHuvz3D6cD9ppWz30UAXn6GJUe-fLWKLPMeDwKtIKS4tlIhXGSOetHN0v3o_RBg2Pd7ApdmSgnji8nwvYTxe_hTxQGnDZ6QJN2jgUIzsQDPLo4_9MkDBoa3BU
+2024-01-23 18:45:37.312 - DEBUG: [fcm-controller.js:129:20] FcmTest -> {"requestCode":"2024012318453731009","id":"2024012318453731010","sender":"fcm test server","receiver":"test02","receiverType":"device","dataType":"text","title":"fcm test","body":"aaaa"}
+2024-01-23 18:45:37.785 - DEBUG: [fcm-controller.js:122:32] Push send success! count : 1
+2024-01-23 18:48:24.167 - INFO: [index.js:91:12] service loader called.
+2024-01-23 18:48:24.181 - INFO: [index.js:95:12] controller loader called.
+2024-01-23 18:48:24.182 - DEBUG: [external_loader.js:33:9] external_loader called.
+2024-01-23 18:48:24.182 - DEBUG: [external_loader.js:36:16] No external configuration.
+2024-01-23 18:48:24.424 - INFO: [index.js:191:20] Https Server started.
+2024-01-23 18:48:24.424 - INFO: [index.js:211:16] Base URL -> https://localhost:8001
+2024-01-23 18:48:24.425 - INFO: [index.js:216:16] Namespace -> ::_8001_9284
+2024-01-23 18:48:24.428 - DEBUG: [database_mysql.js:61:16] database SQL file loaded.
+2024-01-23 18:49:05.562 - DEBUG: [fcm-controller.js:69:16] fcmTest 요청됨.
+2024-01-23 18:49:05.563 - DEBUG: [param.js:19:12] GET /fcm/test requested
+2024-01-23 18:49:05.563 - DEBUG: [param.js:36:16] PARAMS -> {"sender":"test02","receiver":"test01","token":"dLkcQc4_TROGdhvDVA84-A:APA91bHvOuClgW-d1tcjuUApAoHL_xLsVL_enYy1AlyrF0VYvS-wJMatry3293ac8RMdEGYoQ0AQma5Jkm1YdMV7RO4ZSVDnuNOi6owy992nb4dmLb0ytdu86mBb9ntGhJx2_8kUKv4f","data":"ㄹㅎㅎ"}
+2024-01-23 18:49:05.564 - DEBUG: [fcm-controller.js:74:20] params: [object Object]
+2024-01-23 18:49:05.564 - ERROR: [fcm-controller.js:83:24] Parameter channel is undefined.
+2024-01-23 18:49:30.678 - INFO: [index.js:91:12] service loader called.
+2024-01-23 18:49:30.688 - INFO: [index.js:95:12] controller loader called.
+2024-01-23 18:49:30.688 - DEBUG: [external_loader.js:33:9] external_loader called.
+2024-01-23 18:49:30.689 - DEBUG: [external_loader.js:36:16] No external configuration.
+2024-01-23 18:49:30.845 - INFO: [index.js:191:20] Https Server started.
+2024-01-23 18:49:30.845 - INFO: [index.js:211:16] Base URL -> https://localhost:8001
+2024-01-23 18:49:30.846 - INFO: [index.js:216:16] Namespace -> ::_8001_2044
+2024-01-23 18:49:30.847 - DEBUG: [database_mysql.js:61:16] database SQL file loaded.
+2024-01-23 18:49:42.760 - DEBUG: [fcm-controller.js:69:16] fcmTest 요청됨.
+2024-01-23 18:49:42.761 - DEBUG: [param.js:19:12] GET /fcm/test requested
+2024-01-23 18:49:42.762 - DEBUG: [param.js:36:16] PARAMS -> {"sender":"test02","receiver":"test01","token":"dLkcQc4_TROGdhvDVA84-A:APA91bHvOuClgW-d1tcjuUApAoHL_xLsVL_enYy1AlyrF0VYvS-wJMatry3293ac8RMdEGYoQ0AQma5Jkm1YdMV7RO4ZSVDnuNOi6owy992nb4dmLb0ytdu86mBb9ntGhJx2_8kUKv4f","data":"ㅗ"}
+2024-01-23 18:49:42.762 - DEBUG: [fcm-controller.js:74:20] params: [object Object]
+2024-01-23 18:49:42.763 - DEBUG: [fcm-controller.js:115:20] regIds : dLkcQc4_TROGdhvDVA84-A:APA91bHvOuClgW-d1tcjuUApAoHL_xLsVL_enYy1AlyrF0VYvS-wJMatry3293ac8RMdEGYoQ0AQma5Jkm1YdMV7RO4ZSVDnuNOi6owy992nb4dmLb0ytdu86mBb9ntGhJx2_8kUKv4f
+2024-01-23 18:49:42.782 - DEBUG: [fcm-controller.js:134:20] FcmTest -> {"requestCode":"2024012318494276301","id":"2024012318494276302","sender":"test02","receiver":"test01","receiverType":"device","dataType":"text","title":"fcm test","body":"ㅗ"}
+2024-01-23 18:49:43.865 - DEBUG: [fcm-controller.js:127:32] Push send success! count : 1
+2024-01-23 18:49:51.495 - DEBUG: [fcm-controller.js:69:16] fcmTest 요청됨.
+2024-01-23 18:49:51.496 - DEBUG: [param.js:19:12] GET /fcm/test requested
+2024-01-23 18:49:51.497 - DEBUG: [param.js:36:16] PARAMS -> {"sender":"test01","receiver":"test02","token":"eg1AtKoYSGqB6KIx2Gw1o_:APA91bETZWlw1u3KVLyxHuvz3D6cD9ppWz30UAXn6GJUe-fLWKLPMeDwKtIKS4tlIhXGSOetHN0v3o_RBg2Pd7ApdmSgnji8nwvYTxe_hTxQGnDZ6QJN2jgUIzsQDPLo4_9MkDBoa3BU","data":"fgg"}
+2024-01-23 18:49:51.498 - DEBUG: [fcm-controller.js:74:20] params: [object Object]
+2024-01-23 18:49:51.499 - DEBUG: [fcm-controller.js:115:20] regIds : eg1AtKoYSGqB6KIx2Gw1o_:APA91bETZWlw1u3KVLyxHuvz3D6cD9ppWz30UAXn6GJUe-fLWKLPMeDwKtIKS4tlIhXGSOetHN0v3o_RBg2Pd7ApdmSgnji8nwvYTxe_hTxQGnDZ6QJN2jgUIzsQDPLo4_9MkDBoa3BU
+2024-01-23 18:49:51.500 - DEBUG: [fcm-controller.js:134:20] FcmTest -> {"requestCode":"2024012318495149803","id":"2024012318495149804","sender":"test01","receiver":"test02","receiverType":"device","dataType":"text","title":"fcm test","body":"fgg"}
+2024-01-23 18:49:52.104 - DEBUG: [fcm-controller.js:127:32] Push send success! count : 1
+2024-01-23 18:51:39.568 - INFO: [index.js:91:12] service loader called.
+2024-01-23 18:51:39.590 - INFO: [index.js:95:12] controller loader called.
+2024-01-23 18:51:39.591 - DEBUG: [external_loader.js:33:9] external_loader called.
+2024-01-23 18:51:39.592 - DEBUG: [external_loader.js:36:16] No external configuration.
+2024-01-23 18:51:39.997 - INFO: [index.js:191:20] Https Server started.
+2024-01-23 18:51:39.998 - INFO: [index.js:211:16] Base URL -> https://localhost:8001
+2024-01-23 18:51:39.998 - INFO: [index.js:216:16] Namespace -> ::_8001_19396
+2024-01-23 18:51:40.001 - DEBUG: [database_mysql.js:61:16] database SQL file loaded.
+2024-01-23 18:52:26.889 - DEBUG: [fcm-controller.js:69:16] fcmTest 요청됨.
+2024-01-23 18:52:26.890 - DEBUG: [param.js:19:12] GET /fcm/test requested
+2024-01-23 18:52:26.890 - DEBUG: [param.js:36:16] PARAMS -> {"sender":"test01","receiver":"test02","token":"dLkcQc4_TROGdhvDVA84-A:APA91bHvOuClgW-d1tcjuUApAoHL_xLsVL_enYy1AlyrF0VYvS-wJMatry3293ac8RMdEGYoQ0AQma5Jkm1YdMV7RO4ZSVDnuNOi6owy992nb4dmLb0ytdu86mBb9ntGhJx2_8kUKv4f","data":"ㅗㅗㅗ"}
+2024-01-23 18:52:26.891 - DEBUG: [fcm-controller.js:74:20] params: [object Object]
+2024-01-23 18:52:26.893 - ERROR: [fcm-controller.js:137:20] Error in FcmController:FcmTest -> TypeError: params.token.empty is not a function
+2024-01-23 18:52:38.343 - DEBUG: [fcm-controller.js:69:16] fcmTest 요청됨.
+2024-01-23 18:52:38.344 - DEBUG: [param.js:19:12] GET /fcm/test requested
+2024-01-23 18:52:38.345 - DEBUG: [param.js:36:16] PARAMS -> {"sender":"test02","receiver":"test01","token":"eg1AtKoYSGqB6KIx2Gw1o_:APA91bETZWlw1u3KVLyxHuvz3D6cD9ppWz30UAXn6GJUe-fLWKLPMeDwKtIKS4tlIhXGSOetHN0v3o_RBg2Pd7ApdmSgnji8nwvYTxe_hTxQGnDZ6QJN2jgUIzsQDPLo4_9MkDBoa3BU","data":"cdff"}
+2024-01-23 18:52:38.346 - DEBUG: [fcm-controller.js:74:20] params: [object Object]
+2024-01-23 18:52:38.348 - ERROR: [fcm-controller.js:137:20] Error in FcmController:FcmTest -> TypeError: params.token.empty is not a function
+2024-01-23 18:52:47.291 - DEBUG: [fcm-controller.js:69:16] fcmTest 요청됨.
+2024-01-23 18:52:47.292 - DEBUG: [param.js:19:12] GET /fcm/test requested
+2024-01-23 18:52:47.292 - DEBUG: [param.js:36:16] PARAMS -> {"sender":"test01","receiver":"test02","token":"dLkcQc4_TROGdhvDVA84-A:APA91bHvOuClgW-d1tcjuUApAoHL_xLsVL_enYy1AlyrF0VYvS-wJMatry3293ac8RMdEGYoQ0AQma5Jkm1YdMV7RO4ZSVDnuNOi6owy992nb4dmLb0ytdu86mBb9ntGhJx2_8kUKv4f","data":"ㅛㅗㅗㅗ"}
+2024-01-23 18:52:47.293 - DEBUG: [fcm-controller.js:74:20] params: [object Object]
+2024-01-23 18:52:47.295 - ERROR: [fcm-controller.js:137:20] Error in FcmController:FcmTest -> TypeError: params.token.empty is not a function
+2024-01-23 18:53:13.272 - INFO: [index.js:91:12] service loader called.
+2024-01-23 18:53:13.281 - INFO: [index.js:95:12] controller loader called.
+2024-01-23 18:53:13.281 - DEBUG: [external_loader.js:33:9] external_loader called.
+2024-01-23 18:53:13.282 - DEBUG: [external_loader.js:36:16] No external configuration.
+2024-01-23 18:53:13.432 - INFO: [index.js:191:20] Https Server started.
+2024-01-23 18:53:13.433 - INFO: [index.js:211:16] Base URL -> https://localhost:8001
+2024-01-23 18:53:13.433 - INFO: [index.js:216:16] Namespace -> ::_8001_10668
+2024-01-23 18:53:13.435 - DEBUG: [database_mysql.js:61:16] database SQL file loaded.
+2024-01-23 18:53:25.086 - DEBUG: [fcm-controller.js:69:16] fcmTest 요청됨.
+2024-01-23 18:53:25.087 - DEBUG: [param.js:19:12] GET /fcm/test requested
+2024-01-23 18:53:25.087 - DEBUG: [param.js:36:16] PARAMS -> {"channel":"","token":"eg1AtKoYSGqB6KIx2Gw1o_:APA91bETZWlw1u3KVLyxHuvz3D6cD9ppWz30UAXn6GJUe-fLWKLPMeDwKtIKS4tlIhXGSOetHN0v3o_RBg2Pd7ApdmSgnji8nwvYTxe_hTxQGnDZ6QJN2jgUIzsQDPLo4_9MkDBoa3BU","data":"{abc: deg,aaa: fds}"}
+2024-01-23 18:53:25.088 - DEBUG: [fcm-controller.js:74:20] params: [object Object]
+2024-01-23 18:53:25.088 - ERROR: [fcm-controller.js:83:24] Parameter channel is undefined.
+2024-01-23 18:53:59.161 - DEBUG: [fcm-controller.js:69:16] fcmTest 요청됨.
+2024-01-23 18:53:59.161 - DEBUG: [param.js:19:12] GET /fcm/test requested
+2024-01-23 18:53:59.162 - DEBUG: [param.js:36:16] PARAMS -> {"channel":"test01","token":"","data":"{abc: deg,aaa: fds}"}
+2024-01-23 18:53:59.162 - DEBUG: [fcm-controller.js:74:20] params: [object Object]
+2024-01-23 18:53:59.163 - ERROR: [fcm-controller.js:77:24] Parameter token is undefined.
+2024-01-23 18:54:09.338 - INFO: [index.js:91:12] service loader called.
+2024-01-23 18:54:09.348 - INFO: [index.js:95:12] controller loader called.
+2024-01-23 18:54:09.349 - DEBUG: [external_loader.js:33:9] external_loader called.
+2024-01-23 18:54:09.349 - DEBUG: [external_loader.js:36:16] No external configuration.
+2024-01-23 18:54:09.503 - INFO: [index.js:191:20] Https Server started.
+2024-01-23 18:54:09.503 - INFO: [index.js:211:16] Base URL -> https://localhost:8001
+2024-01-23 18:54:09.504 - INFO: [index.js:216:16] Namespace -> ::_8001_6828
+2024-01-23 18:54:09.506 - DEBUG: [database_mysql.js:61:16] database SQL file loaded.
+2024-01-23 18:54:11.087 - DEBUG: [fcm-controller.js:69:16] fcmTest 요청됨.
+2024-01-23 18:54:11.087 - DEBUG: [param.js:19:12] GET /fcm/test requested
+2024-01-23 18:54:11.088 - DEBUG: [param.js:36:16] PARAMS -> {"channel":"test01","token":"","data":"{abc: deg,aaa: fds}"}
+2024-01-23 18:54:11.088 - DEBUG: [fcm-controller.js:74:20] params: [object Object]
+2024-01-23 18:54:11.089 - ERROR: [fcm-controller.js:83:24] Parameter channel is undefined.
+2024-01-23 18:54:36.447 - INFO: [index.js:91:12] service loader called.
+2024-01-23 18:54:36.455 - INFO: [index.js:95:12] controller loader called.
+2024-01-23 18:54:36.456 - DEBUG: [external_loader.js:33:9] external_loader called.
+2024-01-23 18:54:36.456 - DEBUG: [external_loader.js:36:16] No external configuration.
+2024-01-23 18:54:36.609 - INFO: [index.js:191:20] Https Server started.
+2024-01-23 18:54:36.609 - INFO: [index.js:211:16] Base URL -> https://localhost:8001
+2024-01-23 18:54:36.610 - INFO: [index.js:216:16] Namespace -> ::_8001_19824
+2024-01-23 18:54:36.612 - DEBUG: [database_mysql.js:61:16] database SQL file loaded.
+2024-01-23 18:54:38.081 - DEBUG: [fcm-controller.js:69:16] fcmTest 요청됨.
+2024-01-23 18:54:38.082 - DEBUG: [param.js:19:12] GET /fcm/test requested
+2024-01-23 18:54:38.082 - DEBUG: [param.js:36:16] PARAMS -> {"reciever":"test01","token":"","data":"{abc: deg,aaa: fds}"}
+2024-01-23 18:54:38.083 - DEBUG: [fcm-controller.js:74:20] params: [object Object]
+2024-01-23 18:54:38.083 - ERROR: [fcm-controller.js:83:24] Parameter receiver is undefined.
+2024-01-23 18:54:51.283 - DEBUG: [fcm-controller.js:69:16] fcmTest 요청됨.
+2024-01-23 18:54:51.283 - DEBUG: [param.js:19:12] GET /fcm/test requested
+2024-01-23 18:54:51.284 - DEBUG: [param.js:36:16] PARAMS -> {"receiver":"test01","token":"","data":"{abc: deg,aaa: fds}"}
+2024-01-23 18:54:51.284 - DEBUG: [fcm-controller.js:74:20] params: [object Object]
+2024-01-23 18:55:33.155 - INFO: [index.js:91:12] service loader called.
+2024-01-23 18:55:33.165 - INFO: [index.js:95:12] controller loader called.
+2024-01-23 18:55:33.165 - DEBUG: [external_loader.js:33:9] external_loader called.
+2024-01-23 18:55:33.165 - DEBUG: [external_loader.js:36:16] No external configuration.
+2024-01-23 18:55:33.315 - INFO: [index.js:191:20] Https Server started.
+2024-01-23 18:55:33.316 - INFO: [index.js:211:16] Base URL -> https://localhost:8001
+2024-01-23 18:55:33.316 - INFO: [index.js:216:16] Namespace -> ::_8001_1476
+2024-01-23 18:55:33.318 - DEBUG: [database_mysql.js:61:16] database SQL file loaded.
+2024-01-23 18:55:35.116 - DEBUG: [fcm-controller.js:69:16] fcmTest 요청됨.
+2024-01-23 18:55:35.117 - DEBUG: [param.js:19:12] GET /fcm/test requested
+2024-01-23 18:55:35.117 - DEBUG: [param.js:36:16] PARAMS -> {"receiver":"test01","token":"","data":"{abc: deg,aaa: fds}"}
+2024-01-23 18:55:35.118 - DEBUG: [fcm-controller.js:74:20] params: [object Object]
+2024-01-23 18:55:35.118 - ERROR: [fcm-controller.js:77:24] Parameter token is undefined.
+2024-01-23 18:55:39.850 - DEBUG: [fcm-controller.js:69:16] fcmTest 요청됨.
+2024-01-23 18:55:39.850 - DEBUG: [param.js:19:12] GET /fcm/test requested
+2024-01-23 18:55:39.851 - DEBUG: [param.js:36:16] PARAMS -> {"receiver":"test01","token":"eg1AtKoYSGqB6KIx2Gw1o_:APA91bETZWlw1u3KVLyxHuvz3D6cD9ppWz30UAXn6GJUe-fLWKLPMeDwKtIKS4tlIhXGSOetHN0v3o_RBg2Pd7ApdmSgnji8nwvYTxe_hTxQGnDZ6QJN2jgUIzsQDPLo4_9MkDBoa3BU","data":"{abc: deg,aaa: fds}"}
+2024-01-23 18:55:39.851 - DEBUG: [fcm-controller.js:74:20] params: [object Object]
+2024-01-23 18:56:54.060 - INFO: [index.js:91:12] service loader called.
+2024-01-23 18:56:54.069 - INFO: [index.js:95:12] controller loader called.
+2024-01-23 18:56:54.069 - DEBUG: [external_loader.js:33:9] external_loader called.
+2024-01-23 18:56:54.070 - DEBUG: [external_loader.js:36:16] No external configuration.
+2024-01-23 18:56:54.235 - INFO: [index.js:191:20] Https Server started.
+2024-01-23 18:56:54.235 - INFO: [index.js:211:16] Base URL -> https://localhost:8001
+2024-01-23 18:56:54.236 - INFO: [index.js:216:16] Namespace -> ::_8001_16508
+2024-01-23 18:56:54.237 - DEBUG: [database_mysql.js:61:16] database SQL file loaded.
+2024-01-23 18:56:55.827 - DEBUG: [fcm-controller.js:69:16] fcmTest 요청됨.
+2024-01-23 18:56:55.828 - DEBUG: [param.js:19:12] GET /fcm/test requested
+2024-01-23 18:56:55.828 - DEBUG: [param.js:36:16] PARAMS -> {"receiver":"test01","token":"eg1AtKoYSGqB6KIx2Gw1o_:APA91bETZWlw1u3KVLyxHuvz3D6cD9ppWz30UAXn6GJUe-fLWKLPMeDwKtIKS4tlIhXGSOetHN0v3o_RBg2Pd7ApdmSgnji8nwvYTxe_hTxQGnDZ6QJN2jgUIzsQDPLo4_9MkDBoa3BU","data":"{abc: deg,aaa: fds}"}
+2024-01-23 18:56:55.828 - DEBUG: [fcm-controller.js:74:20] params: [object Object]
+2024-01-23 18:56:55.829 - DEBUG: [fcm-controller.js:114:20] regIds : eg1AtKoYSGqB6KIx2Gw1o_:APA91bETZWlw1u3KVLyxHuvz3D6cD9ppWz30UAXn6GJUe-fLWKLPMeDwKtIKS4tlIhXGSOetHN0v3o_RBg2Pd7ApdmSgnji8nwvYTxe_hTxQGnDZ6QJN2jgUIzsQDPLo4_9MkDBoa3BU
+2024-01-23 18:56:55.835 - DEBUG: [fcm-controller.js:133:20] FcmTest -> {"requestCode":"2024012318565582901","id":"2024012318565582902","sender":"fcm test server","receiver":"test01","receiverType":"device","dataType":"text","title":"fcm test","body":"{abc: deg,aaa: fds}"}
+2024-01-23 18:56:56.870 - DEBUG: [fcm-controller.js:126:32] Push send success! count : 1
+2024-01-23 18:57:17.925 - DEBUG: [fcm-controller.js:69:16] fcmTest 요청됨.
+2024-01-23 18:57:17.926 - DEBUG: [param.js:19:12] GET /fcm/test requested
+2024-01-23 18:57:17.927 - DEBUG: [param.js:36:16] PARAMS -> {"sender":"test01","receiver":"test02","token":"eg1AtKoYSGqB6KIx2Gw1o_:APA91bETZWlw1u3KVLyxHuvz3D6cD9ppWz30UAXn6GJUe-fLWKLPMeDwKtIKS4tlIhXGSOetHN0v3o_RBg2Pd7ApdmSgnji8nwvYTxe_hTxQGnDZ6QJN2jgUIzsQDPLo4_9MkDBoa3BU","data":"fffg"}
+2024-01-23 18:57:17.927 - DEBUG: [fcm-controller.js:74:20] params: [object Object]
+2024-01-23 18:57:17.928 - DEBUG: [fcm-controller.js:114:20] regIds : eg1AtKoYSGqB6KIx2Gw1o_:APA91bETZWlw1u3KVLyxHuvz3D6cD9ppWz30UAXn6GJUe-fLWKLPMeDwKtIKS4tlIhXGSOetHN0v3o_RBg2Pd7ApdmSgnji8nwvYTxe_hTxQGnDZ6QJN2jgUIzsQDPLo4_9MkDBoa3BU
+2024-01-23 18:57:17.929 - DEBUG: [fcm-controller.js:133:20] FcmTest -> {"requestCode":"2024012318571792803","id":"2024012318571792804","sender":"test01","receiver":"test02","receiverType":"device","dataType":"text","title":"fcm test","body":"fffg"}
+2024-01-23 18:57:19.187 - DEBUG: [fcm-controller.js:126:32] Push send success! count : 1
+2024-01-23 18:57:20.669 - DEBUG: [fcm-controller.js:69:16] fcmTest 요청됨.
+2024-01-23 18:57:20.670 - DEBUG: [param.js:19:12] GET /fcm/test requested
+2024-01-23 18:57:20.671 - DEBUG: [param.js:36:16] PARAMS -> {"sender":"test02","receiver":"test01","token":"dLkcQc4_TROGdhvDVA84-A:APA91bHvOuClgW-d1tcjuUApAoHL_xLsVL_enYy1AlyrF0VYvS-wJMatry3293ac8RMdEGYoQ0AQma5Jkm1YdMV7RO4ZSVDnuNOi6owy992nb4dmLb0ytdu86mBb9ntGhJx2_8kUKv4f","data":"ㄴㄷㄷ"}
+2024-01-23 18:57:20.671 - DEBUG: [fcm-controller.js:74:20] params: [object Object]
+2024-01-23 18:57:20.672 - DEBUG: [fcm-controller.js:114:20] regIds : dLkcQc4_TROGdhvDVA84-A:APA91bHvOuClgW-d1tcjuUApAoHL_xLsVL_enYy1AlyrF0VYvS-wJMatry3293ac8RMdEGYoQ0AQma5Jkm1YdMV7RO4ZSVDnuNOi6owy992nb4dmLb0ytdu86mBb9ntGhJx2_8kUKv4f
+2024-01-23 18:57:20.673 - DEBUG: [fcm-controller.js:133:20] FcmTest -> {"requestCode":"2024012318572067205","id":"2024012318572067206","sender":"test02","receiver":"test01","receiverType":"device","dataType":"text","title":"fcm test","body":"ㄴㄷㄷ"}
+2024-01-23 18:57:21.222 - DEBUG: [fcm-controller.js:126:32] Push send success! count : 1
+2024-01-23 18:57:27.223 - DEBUG: [fcm-controller.js:69:16] fcmTest 요청됨.
+2024-01-23 18:57:27.224 - DEBUG: [param.js:19:12] GET /fcm/test requested
+2024-01-23 18:57:27.225 - DEBUG: [param.js:36:16] PARAMS -> {"sender":"test01","receiver":"test02","token":"eg1AtKoYSGqB6KIx2Gw1o_:APA91bETZWlw1u3KVLyxHuvz3D6cD9ppWz30UAXn6GJUe-fLWKLPMeDwKtIKS4tlIhXGSOetHN0v3o_RBg2Pd7ApdmSgnji8nwvYTxe_hTxQGnDZ6QJN2jgUIzsQDPLo4_9MkDBoa3BU","data":"dbdbdh"}
+2024-01-23 18:57:27.225 - DEBUG: [fcm-controller.js:74:20] params: [object Object]
+2024-01-23 18:57:27.226 - DEBUG: [fcm-controller.js:114:20] regIds : eg1AtKoYSGqB6KIx2Gw1o_:APA91bETZWlw1u3KVLyxHuvz3D6cD9ppWz30UAXn6GJUe-fLWKLPMeDwKtIKS4tlIhXGSOetHN0v3o_RBg2Pd7ApdmSgnji8nwvYTxe_hTxQGnDZ6QJN2jgUIzsQDPLo4_9MkDBoa3BU
+2024-01-23 18:57:27.226 - DEBUG: [fcm-controller.js:133:20] FcmTest -> {"requestCode":"2024012318572722607","id":"2024012318572722608","sender":"test01","receiver":"test02","receiverType":"device","dataType":"text","title":"fcm test","body":"dbdbdh"}
+2024-01-23 18:57:27.834 - DEBUG: [fcm-controller.js:126:32] Push send success! count : 1
+2024-01-23 19:03:01.072 - DEBUG: [fcm-controller.js:69:16] fcmTest 요청됨.
+2024-01-23 19:03:01.073 - DEBUG: [param.js:19:12] GET /fcm/test requested
+2024-01-23 19:03:01.073 - DEBUG: [param.js:36:16] PARAMS -> {"receiver":"test01","token":"eg1AtKoYSGqB6KIx2Gw1o_:APA91bETZWlw1u3KVLyxHuvz3D6cD9ppWz30UAXn6GJUe-fLWKLPMeDwKtIKS4tlIhXGSOetHN0v3o_RBg2Pd7ApdmSgnji8nwvYTxe_hTxQGnDZ6QJN2jgUIzsQDPLo4_9MkDBoa3BU"}
+2024-01-23 19:03:01.073 - DEBUG: [fcm-controller.js:74:20] params: [object Object]
+2024-01-23 19:03:01.073 - ERROR: [fcm-controller.js:89:24] Parameter data is undefined.
+2024-01-23 19:03:12.145 - DEBUG: [fcm-controller.js:69:16] fcmTest 요청됨.
+2024-01-23 19:03:12.145 - DEBUG: [param.js:19:12] GET /fcm/test requested
+2024-01-23 19:03:12.145 - DEBUG: [param.js:36:16] PARAMS -> {"receiver":"test01","token":"eg1AtKoYSGqB6KIx2Gw1o_:APA91bETZWlw1u3KVLyxHuvz3D6cD9ppWz30UAXn6GJUe-fLWKLPMeDwKtIKS4tlIhXGSOetHN0v3o_RBg2Pd7ApdmSgnji8nwvYTxe_hTxQGnDZ6QJN2jgUIzsQDPLo4_9MkDBoa3BU","data":"{abc: deg,aaa: fds}"}
+2024-01-23 19:03:12.145 - DEBUG: [fcm-controller.js:74:20] params: [object Object]
+2024-01-23 19:03:12.145 - DEBUG: [fcm-controller.js:114:20] regIds : eg1AtKoYSGqB6KIx2Gw1o_:APA91bETZWlw1u3KVLyxHuvz3D6cD9ppWz30UAXn6GJUe-fLWKLPMeDwKtIKS4tlIhXGSOetHN0v3o_RBg2Pd7ApdmSgnji8nwvYTxe_hTxQGnDZ6QJN2jgUIzsQDPLo4_9MkDBoa3BU
+2024-01-23 19:03:12.146 - DEBUG: [fcm-controller.js:133:20] FcmTest -> {"requestCode":"202401231931214509","id":"202401231931214510","sender":"fcm test server","receiver":"test01","receiverType":"device","dataType":"text","title":"fcm test","body":"{abc: deg,aaa: fds}"}
+2024-01-23 19:03:12.731 - DEBUG: [fcm-controller.js:126:32] Push send success! count : 1
